@@ -29,6 +29,8 @@ csl: vancouver.csl
 
 ***Keywords:***
 
+# Introduction
+
 # Aims
 
 # Methods
