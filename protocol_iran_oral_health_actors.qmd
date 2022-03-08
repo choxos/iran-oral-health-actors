@@ -3,7 +3,7 @@ title: "The network of oral health actors in Iran: Protocol for a systematic map
 
 author:
   - Ahmad Sofi-Mahmudi^[Seqiz Health Network, Kurdistan University of Medical Sciences, Seqiz, Iran.; a.sofimahmudi@gmail.com] ^[Cochrane Iran Associate Centre, National Institute for Medical Research Development (NIMAD), Tehran, Iran.]
-  - Amin Vahdati^[]
+  - Amin Vahdati^[Community Oral Health department, Dental Faculty,Shahid Beheshti University of medical Science]
   - Farzaneh Farokhi^[]
   - Anahita Ranjbar^[]
   - Ali Kazemian^[]
